@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>img0047.jpg</filename>
+	<path>C:\Users\kingh\Desktop\images\img0047.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>empty</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>2440</ymin>
+			<xmax>1234</xmax>
+			<ymax>2949</ymax>
+		</bndbox>
+	</object>
+</annotation>

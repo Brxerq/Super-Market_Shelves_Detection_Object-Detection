@@ -36,41 +36,6 @@ The table below summarizes the mean Average Precision (mAP) scores for each mode
 
 ## Usage
 
-### Prerequisites
-
-- Python 3.x
-- TensorFlow
-- Keras
-- Other dependencies listed in `requirements.txt`
-
-### Steps to Use the Repository
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/Brxerq/Super-Market_Shelves_Detection_Object-Detection.git
-   cd Super-Market_Shelves_Detection_Object-Detection
-   ```
-
-2. **Install Dependencies**
-   ```bash
-   pip install -r requirements.txt
-
-
-3. **Data Collection and Annotation**
-   - Use the scripts in the `data_collection` folder to gather and annotate images of supermarket shelves.
-
-4. **Train the Model**
-   - Configure your training parameters in the configuration file.
-   - Run the training script:
-     ```bash
-     python train_model.py
-     ```
-
-5. **Evaluate the Model**
-   - Use the evaluation scripts to assess model performance on test datasets:
-     ```bash
-     python evaluate_model.py
-     ```
 
 ### Hugging Face Interface
 
@@ -91,7 +56,6 @@ Interact with the model using the Hugging Face interface provided:
 - Chong Chao Sen
 - Lau Lik Yang
 
-## Git Repository
 
 [GitHub Repository](https://github.com/Brxerq/Super-Market_Shelves_Detection_Object-Detection)
 

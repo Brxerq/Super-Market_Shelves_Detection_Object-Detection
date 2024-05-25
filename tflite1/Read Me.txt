@@ -1,0 +1,15 @@
+cd C:\tflite1
+conda activate tflite1-env
+
+
+Images:
+python TFLite_detection_webcam.py --modeldir=custom_model_lite
+python TFLite_detection_image.py --modeldir=TFLite_model --image=test1.jpg
+python TFLite_detection_image.py --modeldir=TFLite_model --image=test2.jpg
+python TFLite_detection_image.py --modeldir=TFLite_model --image=test3.jpg
+
+
+Video:
+python TFLite_detection_video.py --modeldir=custom_model_lite --video=test5.MP4
+python TFLite_detection_video.py --modeldir=custom_model_lite --video=test6.MP4
+python TFLite_detection_stream.py --modeldir=custom_model_lite

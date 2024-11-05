@@ -52,9 +52,7 @@ Interact with the model using the Hugging Face interface provided:
 ## Prepared by
 
 - Syed Muhammad Hassan Bin Ghayas
-- Tan Chai Ching
-- Chong Chao Sen
-- Lau Lik Yang
+
 
 
 [GitHub Repository](https://github.com/Brxerq/Super-Market_Shelves_Detection_Object-Detection)
